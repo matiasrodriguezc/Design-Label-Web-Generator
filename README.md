@@ -1,4 +1,4 @@
-# Design Label - webGenerator
+# Design Label - Web Generator
 Guía de instalación y ejecución del proyecto desarrollado por el grupo Design Label para la cursada 2024 de la materia Ingeniería de Software
 
 ## Requisitos previos
